@@ -1,23 +1,24 @@
-# Skipp
-> Powered with 🖤 by Skipp Team
+# Skipp  
+> Desenvolvido com ❤️ pela equipe Skipp  
 
-# Qual o Objetivo do Skipp?
-- Nosso objetivo é fazer o seu servidor um local, legal, divertido e interativo!
+## Qual é o objetivo do Skipp?  
+Nosso objetivo é tornar o seu servidor um lugar mais legal, divertido e interativo para todos!  
 
-# O que fazer quando o Skipp estiver off?
-- Você pode acessar nosso servidor de suporte, e entrar em contato para saber o ocorrido!
+## O que fazer se o Skipp estiver offline?  
+Acesse o nosso [Servidor de Suporte](https://discord.gg/ReUDqwGraj) para saber o motivo e obter atualizações.  
 
-# Achei um bug, o que eu faço?
-- Entre no Servidor de Suporte e esclareça o bug, em um canal publico para reportes desse tipo.
+## Encontrei um bug. O que faço?  
+Relate o problema no nosso [Servidor de Suporte](https://discord.gg/ReUDqwGraj), no canal dedicado a reportes de bugs.  
 
-# Quero denunciar um meliante!
-- Você pode denunciar alguém pelos tickets ok? Você não pode denunciar nos chat, pois deverá ser anonimo.
+## Como posso denunciar alguém?  
+Denúncias devem ser feitas através de tickets para garantir o anonimato. Evite usar os chats públicos para isso.  
 
-# Quero ser da staff!
-- Você deverá aguardar sair no servidor vagas para a administração do Skipp
+## Quero fazer parte da equipe do Skipp!  
+Fique de olho no [Servidor de Suporte](https://discord.gg/ReUDqwGraj) para oportunidades de ingressar na administração do Skipp.  
 
-# Meu servidor foi banido! O que faço?
-- Abra um ticket e reporte o ocorrido. Será reavaliado se será ou nao removido o banimento.
+## Fui banido. O que faço?  
+Abra um ticket no nosso servidor e explique o ocorrido. O caso será analisado, e decidiremos se o banimento será removido ou mantido.  
 
-# Servidor de Suporte:
-- https://dsc.gg/skipp ou https://discord.gg/ReUDqwGraj
+## Servidor de Suporte  
+- [dsc.gg/skipp](https://dsc.gg/skipp)  
+- [discord.gg/ReUDqwGraj](https://discord.gg/ReUDqwGraj)
