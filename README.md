@@ -14,4 +14,4 @@ Agradecemos a todos que utilizaram o Skipp, acompanharam seu desenvolvimento e f
 
 ## 📜 Direitos autorais
 
-Este projeto está protegido por uma licença personalizada. Consulte o arquivo `LICENSE` para conhecer as condições de uso, distribuição e modificação do código.
+Este projeto está protegido por uma licença personalizada. Consulte o arquivo [`LICENSE`](https://github.com/SrNap/Skipp?tab=License-1-ov-file) para conhecer as condições de uso, distribuição e modificação do código.
