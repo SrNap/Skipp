@@ -1,60 +1,26 @@
-# Skipp Custom License (SCL) v1.0
+Skipp Custom License
 
 Copyright (c) 2026 SrNap
 
-All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to access, view, and study the Software for personal, educational, and non-commercial purposes, subject to the following conditions:
 
-## 1. Permission to View and Study
+1. The Software may be modified for personal and private use, provided that such modifications are not published, distributed, or made publicly available.
 
-Permission is granted to any person to access, view, and study the source code of this project for personal, educational, and non-commercial learning purposes.
+2. The original copyright notice and this permission notice must be preserved in any permitted private copies of the Software.
 
-## 2. Private Modifications
+3. Any reference to the Software, including its original code or concepts, must provide appropriate credit to the original author, SrNap, and include a link to the original repository whenever reasonably possible.
 
-Users may modify the source code for personal and private use, provided that such modifications are not distributed, published, or made publicly available.
+The following actions are strictly prohibited without prior written permission from the original copyright holder:
 
-## 3. Restrictions
+- Copying, publishing, distributing, or redistributing the Software or substantial portions thereof.
+- Publishing, distributing, or sharing modified versions or derivative works.
+- Selling, sublicensing, renting, or commercially exploiting the Software or any derivative works.
+- Hosting or making the Software or modified versions available as a public or third-party service.
+- Removing, altering, or concealing copyright notices, authorship information, or license references.
+- Claiming original authorship or ownership of the Software.
 
-Without prior written permission from the original copyright holder, you may NOT:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-- Copy, redistribute, or republish this project or substantial portions of its source code.
-- Publish, distribute, or share modified versions of this project.
-- Sell, sublicense, rent, or commercially exploit this project or any derivative work.
-- Offer this project or modified versions as a paid service.
-- Remove, alter, or conceal copyright notices, authorship information, or license references.
-- Claim original authorship of this project or its components.
+All rights not expressly granted under this license are reserved by the copyright holder.
 
-## 4. Attribution
-
-Any permitted reference to this project must clearly credit the original author and include a link to the original repository whenever reasonably possible.
-
-No attribution requirement grants permission to redistribute or publish the project.
-
-## 5. Ownership
-
-All rights, title, and interest in the original project remain with their respective copyright holders.
-
-This license does not transfer ownership of the project or grant any rights beyond those expressly stated herein.
-
-## 6. Third-Party Components
-
-This license does not override the licenses or copyright terms of third-party libraries, dependencies, assets, or other components included in or used by this project.
-
-Such components remain subject to their respective licenses.
-
-## 7. Disclaimer of Warranty
-
-This project is provided "AS IS", without warranties of any kind, express or implied, including but not limited to fitness for a particular purpose, merchantability, or non-infringement.
-
-The copyright holder shall not be liable for any damages arising from the use or inability to use this project, to the extent permitted by applicable law.
-
-## 8. Termination
-
-Any violation of the terms of this license automatically terminates the permissions granted herein, subject to applicable law.
-
-## 9. Governing Law
-
-This license shall be interpreted in accordance with applicable copyright laws and regulations.
-
-For permissions beyond those expressly granted, contact the original copyright holder.
-
-**All rights reserved.**
+Third-party libraries, dependencies, and assets remain subject to their respective licenses and copyright terms.
